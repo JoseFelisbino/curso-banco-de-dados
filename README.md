@@ -7,7 +7,7 @@
 ## [1º aula (10/04/2026)](https://github.com/JoseFelisbino/curso-banco-de-dados/tree/1a-aula)
 
 - O que é banco de dados e como é utilizado?
-- Diferença entre `banco de dados`, `SGBD` e `SQL
+- Diferença entre `banco de dados`, `SGBD` e `SQL`
 - 🧠 Conceitos gerais:
   1. **Tabelas:**
   2. **Colunas:** 
