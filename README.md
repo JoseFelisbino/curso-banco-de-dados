@@ -20,3 +20,17 @@
  - Diagrama de Entidade-Relacionamento.
 
  ---
+
+## [2º aula (17/04/2026)](https://github.com/JoseFelisbino/curso-banco-de-dados/tree/2a-aula)
+
+- Por que normalizar?
+- Problemas comuns em modelos "mal" feitos
+- Inserção
+- Atualização
+- Exclusão
+- Regra: dados devem ser atômicos
+- Dependência total da chave primária
+- Regra: eliminar dependências transitivas
+- Desnormalização
+
+---
